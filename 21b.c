@@ -65,7 +65,7 @@ int main() {
 ============================================================================
 Command line: cc 21b.c && ./a.out
 Output: 
-Message received from FIFO1: Hello from Program 1!
-Message sent to FIFO2: Hello from Program 2!
+Message received from FIFO1: Hello Program 1!
+Message sent to FIFO2: Hello Program 2!
 ============================================================================
 */

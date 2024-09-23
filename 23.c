@@ -35,7 +35,7 @@ void main()
 ============================================================================
 Command line: cc 23.c && ./a.out
 Output: 
-Maximum number of files that can be opened is: 1024
+Maximum number of files that can be opened is: 1048576
 Maximum size of pipe: 5
 ============================================================================
 */

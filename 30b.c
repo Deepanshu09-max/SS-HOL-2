@@ -65,6 +65,6 @@ Command line: cc 30b.c && ./a.out
 Output: 
 Attempting to write in shared memory:
 f
-Data from shared memory: [previous data if any]
+Data from shared memory: 
 ============================================================================
 */
