@@ -50,6 +50,6 @@ int main() {
 ============================================================================
 Command line: cc 20a.c && ./a.out
 Output:
-Message sent to FIFO: Hello from the writer!
+Message sent to FIFO: Hello
 ============================================================================
 */

@@ -45,6 +45,6 @@ int main() {
 /*
 ============================================================================
 Command line: cc 20b.c && ./a.out
-Output: Message received from FIFO: Hello from the writer!
+Output: Message received from FIFO: Hello!
 ============================================================================
 */
